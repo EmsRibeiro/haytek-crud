@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+
+# Vite
+.vite/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
