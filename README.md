@@ -4,9 +4,10 @@ Projeto de CRUD (Create, Read, Update, Delete), desenvolvido como teste técnico
 
 ## Tecnologias Utilizadas
 
-- Node.js + Express (Back-end);
-- React + Vite (Front-end);
-- CSS puro para estilização;
+- Node.js + Express (Back-end API REST);
+- React + Vite (Front-end SPA);
+- Fetch API (comunicação HTTP entre Front-end e Back-end);
+- CSS puro para estilização (fontes externas personalizadas);
 - Simulação de Banco de Dados via JSON.
 
 ---
