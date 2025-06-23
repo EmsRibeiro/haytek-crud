@@ -90,8 +90,6 @@ DELETE http://localhost:3000/api/products/uuid-exemplo-aqui
 ---
 ### Observações
 
-- Projeto feito por aluno do 2º semestre de Análise e Desenvolvimento de Sistemas;
 - Banco de Dados simulado com arquivo JSON;
-- Por limitação de tempo e nível de conhecimento (2º semestre), a funcionalidade de paginação e testes unitários não foi implementada, mas está documentada como melhoria futura;
 - O código contém comentários explicativos em pontos-chave, com finalidade de demonstrar o raciocínio utilizado e facilitar entendimento;
 - A interface do usuário foi estilizada com base nas cores da logomarca da empresa Haytek, buscando alinhamento visual com a identidade da marca.
